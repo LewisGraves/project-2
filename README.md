@@ -30,20 +30,20 @@ This browser application will allow users to create and organize information on 
 
 Landing Page
 
-![Landing Page](/images/landing.png)
+![Landing Page](/images/landing.PNG)
 
 Console View/Edit Page
 
-![Console View/Editing Page](/images/console.png)
+![Console View/Editing Page](/images/console.PNG)
 
 Game view/Edit Page
 
-![Game View/Editing Page](/images/game.png)
+![Game View/Editing Page](/images/game.PNG)
 
 ---
 
 ## ERD
-![ERD](/images/erd.png)
+![ERD](/images/erd.PNG)
 
 ---
 
